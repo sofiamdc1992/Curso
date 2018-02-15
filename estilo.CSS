@@ -1,0 +1,25 @@
+h1{
+                    color:white;
+                    background-color: #F7819F;
+                    font-size:40px;
+}
+p{
+                    color:grey;
+}
+footer p{
+                    color:#868A08;
+                    text-align: center;
+                    font-size: 30px;
+                    background-color: #0080FF; 
+}
+/*
+*esto es un párrafo de color verde. Esto es un comentario que no se ve. 
+*/
+.textonaranja{
+                    color:pink;
+                    background-color: orange;
+                    font-size: 30px;
+}
+#primerparrafo{
+                    color:red; 
+}
